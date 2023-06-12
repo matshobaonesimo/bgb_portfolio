@@ -22,3 +22,10 @@ nav ul li a:hover {
 h1 {
     text-align: center;
 }
+
+body {
+    background-color: aqua;
+    border-radius: 50px;
+    background:radial-gradient(50px) ;
+    background: radial 50px;
+}
